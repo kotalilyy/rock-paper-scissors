@@ -1,4 +1,5 @@
 const selectionButtons = document.querySelectorAll('[data-selection]')
+const finalColumn = document.querySelector('[data-final-column]')
 const SELECTIONS = [
     {
         name: 'rock',
@@ -35,7 +36,7 @@ function makeSelection(selection) {
 }
 
 function addSelectionResult(selection, winner) {
-
+finalColumn.after(div)
 }
 
 function isWinner(selection, opponentSelection) {
