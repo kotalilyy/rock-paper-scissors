@@ -8,7 +8,7 @@ I created this fun and easy Rock Paper Scissors game using
 
 * JavaScript
 
-It generates a random output for the computer, and allows you to keep track of your wins. 
+It generates a random output for the computer and allows you to keep track of your wins. 
 
 ## Live Link
 
