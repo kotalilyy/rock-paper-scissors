@@ -8,7 +8,11 @@ This app generates a random output for the computer and allows you to keep track
 
 ## Contributions
 
+Follow this [Tutorial](https://www.youtube.com/watch?v=1yS-JV4fWqY) to create this game! 
+
 Created with ❤️ by [Dakota Nelson](https://github.com/kotalilyy)
+
+Thanks @[webdevsimplified](WebDevSimplified)
 
 ## Questions
 
