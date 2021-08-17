@@ -1,18 +1,24 @@
-# Rock Paper Scissors Game
+# rock-paper-scissors
 
-This app generates a random output for the computer and allows you to keep track of your wins. 
+Play rock paper scissors against a random generated output.
+
+Click the picture below to see a gif of the live app.
+
+[![rockpaperscissors copy](https://user-images.githubusercontent.com/77229281/129719738-29d75573-183a-4d02-8e84-15f73ac56e60.png)](https://j.gifs.com/r22JkB.gif)
 
 ## Live Link
 
 [Play](https://kotalilyy.github.io/rock-paper-scissors/)
 
-## Contributions
+## Credits
 
 Follow this [Tutorial](https://www.youtube.com/watch?v=1yS-JV4fWqY) to create this game! 
 
-Created with ❤️ by [Dakota Nelson](https://github.com/kotalilyy)
-
 Thanks @[webdevsimplified](WebDevSimplified)
+
+## Contributions
+
+Created with ❤️ by [Dakota Nelson](https://github.com/kotalilyy)
 
 ## Questions
 
