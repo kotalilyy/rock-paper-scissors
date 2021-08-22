@@ -12,7 +12,7 @@ Click the picture below to see a gif of the live app.
 
 ## Credits
 
-Click []here(https://www.youtube.com/watch?v=1yS-JV4fWqY) to create this game.
+Click [here](https://www.youtube.com/watch?v=1yS-JV4fWqY) to create this game.
 
 Thanks @[webdevsimplified](WebDevSimplified)
 
